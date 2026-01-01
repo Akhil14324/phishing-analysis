@@ -1,0 +1,5 @@
+From: security-alert@paypa1.com
+Subject: Urgent! Verify your account
+
+Your account will be suspended in 24 hours.
+Click here to verify: http://paypa1-secure-login.com
